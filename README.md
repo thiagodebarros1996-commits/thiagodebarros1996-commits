@@ -7,6 +7,6 @@
 
 https://github.com/alexandresanlin/Badges4-README.md-Profile#-education
 
-[![](https://img.shields.io/badge/Instagran-E4405F?style=for-the-badge&logo=instagran&logoColor=white).]
+![](https://img.shields.io/badge/Instagran-E4405F?style=for-the-badge&logo=instagran&logoColor=white)
 
 
